@@ -17,7 +17,7 @@ class AceConfig(acedefconfig.AceDefConfig):
     acespawn = True
     # Ace Stream cmd line (use `--log-file filepath` to write log)
     # Autodetect for Windows
-    acecmd = "/home/definitly/downloads/acestream_3.0.2_ubuntu_12.04_i686/acestreamengine \
+    acecmd = "/home/definitly/downloads/acestream_3.0.3_ubuntu_12.04_i686/acestreamengine \
     --client-console \
     --live-cache-type memory \
     --live-mem-cache-size 209715200 \
